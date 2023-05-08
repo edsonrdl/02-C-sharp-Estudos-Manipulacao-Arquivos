@@ -1,0 +1,17 @@
+{
+  "Nome": "Luffy",
+  "Idade": 19,
+  "Casado": false,
+  "Hobbies": [
+    "Brigar",
+    "Comer",
+    "Brigar"
+  ],
+  "Endereco": {
+    "Rua": "Não existe",
+    "Cidade": "Não existe",
+    "Estado": "Não existe",
+    "Cep": "00000-000"
+  }
+}
+
